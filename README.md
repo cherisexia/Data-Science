@@ -1,17 +1,17 @@
 # Data Science
 
-** Statistics **
+**Statistics**
 - [ ] Udemy A/B testing course
 - [ ] 
 
-** Python **
+**Python**
 - [ ] Python For Data Science
 
 
-** Machine Learning **
+**Machine Learning**
 
-** Case Study **
-- [ ] Cracking the PM Interview (book)
+**Case Study**
+- [ ] Cracking the PM Interview (book) **Progress: 22% Complete**
 - [ ] Lean Analytics
 
 
