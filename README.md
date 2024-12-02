@@ -11,7 +11,7 @@
 **Machine Learning**
 
 **Case Study**
-- [ ] Cracking the PM Interview (book) **Progress: 22% Complete**
+- [ ] Cracking the PM Interview (book) **In Progress**
 - [ ] Lean Analytics
 
 
